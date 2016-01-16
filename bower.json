@@ -1,0 +1,27 @@
+{
+  "name": "polymer_quickgo",
+  "version": "0.0.1",
+  "authors": [
+    "Wendy <honeykatie@qq.com>"
+  ],
+  "description": "Prototype design for SAP #Innotakeoff. The idea is about the desig",
+  "main": "index.html",
+  "keywords": [
+    "polymer",
+    "sap",
+    "innotakeoff",
+    "mdl"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
